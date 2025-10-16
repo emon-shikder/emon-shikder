@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=emon-shikder.visitor-badge"/>
+
 ![Banner](banner.gif)
 
 <h1 align="center">Hi 👋, I'm Emon Shikder</h1>
