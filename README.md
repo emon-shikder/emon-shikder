@@ -60,15 +60,6 @@ Medical Image Analysis, Deep Learning, and Disease Classification
 
 ---
 
-###  My Contributions
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emon-shikder/emons-hikder/output/github-contribution-grid-snake.svg" />
-  
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
